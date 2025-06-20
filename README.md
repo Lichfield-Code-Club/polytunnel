@@ -1,2 +1,2 @@
 # polytunnel
-monitoring a poly tunnel
+Monitor and control polytunnel using mqtt

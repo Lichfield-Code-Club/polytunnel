@@ -1,0 +1,1 @@
+{"deepsleep": 5,"mqtt_pass": "my_mqtt_pass", "mqtt_user": "my_mqtt_user", "wifi_pass": "my_wifi_pass", "mqtt_topic": "readings/polytunnel/data", "mqtt_client_id": "pico", "wifi_ssid": "my_wifi_ssid", "mqtt_broker": "ip_address_my_mqtt_broker"}
